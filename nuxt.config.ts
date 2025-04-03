@@ -10,7 +10,7 @@ export default defineNuxtConfig({
     plugins: [tailwindcss()],
   },
 
-  modules: ["@nuxtjs/color-mode"],
+  modules: ["@nuxtjs/color-mode", "@nuxt/icon"],
 
   colorMode: {
     preference: "system", // default value of $colorMode.preference

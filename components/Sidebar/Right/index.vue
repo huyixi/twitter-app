@@ -1,3 +1,5 @@
 <template>
-  right
+  <div>
+    right
+  </div>
 </template>
